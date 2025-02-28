@@ -16,7 +16,7 @@ const nextConfig = {
     });
     return config;
   },
-  
+  basePath: '/katetedeveloper.github.io', // GitHub Pages 경로
 };
 
 module.exports = nextConfig;
