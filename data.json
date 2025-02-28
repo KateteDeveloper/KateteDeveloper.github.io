@@ -1,14 +1,14 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "채윤지"
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "채윤지",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "katete051@naver.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/KateteDeveloper" },
+      { "id": 2, "name": "Blog", "href": "https://katete051.tistory.com/" }
     ]
   },
 
