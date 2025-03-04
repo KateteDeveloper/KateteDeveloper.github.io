@@ -1,7 +1,1 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+안드로이드 앱, 웹 프론트앤드 개발자가 되고 싶은 채윤지 입니다:) 많은 조언 부탁드립니다
